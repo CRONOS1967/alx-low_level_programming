@@ -1,32 +1,25 @@
+#include "main.h"
 #include <stdio.h>
-
 /**
- * main - Prints the first 52 fibonacci numbers
- *
- * Return: Nothing!
+ * print_to_98 - print to 98
+ * @n : number to start from
+ * Return:0 or 1
  */
-int main(void)
+
+void print_to_98(int n)
 {
-	int i = 0;
-	long j = 1;
-	long k = 2;
 
-	while (i < 50)
-	{
-		if (i == 0)
-			printf("%ld", j);
-		else if (i == 1)
-			printf(", %ld", k);
-		else
-		{
-			k += j;
-			j = k - j;
-			printf(", %ld", k);
-		}
+    while (n < 98)
+    {
+        printf("%i, ", n);
+        n++;
+    }
+    while (n > 98)
+    {
+        printf("%i, ", n);
+        n--;
+    }
 
-		++i;
-	}
-
-	printf("\n");
-	return (0);
+    printf("98");
+    putchar('\n');
 }
