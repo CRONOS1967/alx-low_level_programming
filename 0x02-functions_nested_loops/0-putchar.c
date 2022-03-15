@@ -8,10 +8,10 @@
 int main(void)
 {
 	char putchar[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
-for (int i = 0; i < 8; i++)
+for (unsigned int i = 0; i <= sizeof(putchar); i++)
 {
 _putchar(putchar[i]);
 }
-_putchar('/n');
+_putchar(12142);
 return (0);
 }
