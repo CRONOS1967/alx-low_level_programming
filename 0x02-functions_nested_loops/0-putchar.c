@@ -13,6 +13,6 @@ for (i = 0; i <= sizeof(putchar); i++)
 {
 _putchar(putchar[i]);
 }
-_putchar(12142);
+_putchar(10);
 return (0);
 }
