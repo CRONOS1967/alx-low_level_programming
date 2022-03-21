@@ -9,11 +9,14 @@
 */
 void print_array(int *a, int n)
 {
-int i;
+	short c = 0;
 
-for (i = 0; i < n; i++)
-{
-printf("%d, ", a[i]);
-}
-_putchar('\n');
+	while (n-- > 0)
+	{
+		printf("%d", a[c++]);
+		if (n != 0)
+			printf(", ");
+	}
+
+		printf("\n");
 }
