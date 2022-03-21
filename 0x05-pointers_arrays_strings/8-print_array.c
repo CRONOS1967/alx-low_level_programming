@@ -13,7 +13,7 @@ int i;
 
 for (i = 0; i < n; i++)
 {
-print_f("%d, ", a[i]);
+printf("%d, ", a[i]);
 }
 _putchar('\n');
 }
