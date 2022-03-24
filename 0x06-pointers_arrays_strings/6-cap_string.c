@@ -1,22 +1,6 @@
 #include "main.h"
 
 /**
- * _strlen - returns the length of a string
- * @s: string
- * Return: returns length as integer;
- */
-
-int _strlen(char *s)
-{
-	int len = 0;
-
-	while (*(s + len) != '\0')
-		len++;
-
-	return (len);
-}
-
-/**
 * cap_string - function that capitalize first character of a word
 * @str: string to capitalize
 * Return: returns the capitalized string
@@ -24,28 +8,16 @@ int _strlen(char *s)
 
 char *cap_string(char *str)
 {
-	int index = 0;
+int i, j;
+	char delimeters[] = " \t\n,;.!?\"(){}";
 
-	while (str[++index])
+	for (i = 0; str[i] != '\0'; i++)
 	{
-		while (!(str[index] >= 'a') && (str[index] <= 'z'))
-			index++;
-
-		if (str[index - 1] == ' ' ||
-				str[index - 1] == '\t' ||
-				str[index - 1] == '\n' ||
-				str[index - 1] == ',' ||
-				str[index - 1] == ';' ||
-				str[index - 1] == '.' ||
-				str[index - 1] == '!' ||
-				str[index - 1] == '?' ||
-				str[index - 1] == '"' ||
-				str[index - 1] == '(' ||
-				str[index - 1] == ')' ||
-				str[index - 1] == '{' ||
-				str[index - 1] == '}')
-			str[index] -= 32;
+		if (str[0] >= 97 && str[0] <= 122)
+			str[0] = str[0] - 32;
+				for (j = 0; delimeters[j] != '\0'; j++)
+					if (str[i] == delimeters[j] && str[i + 1] >= 97 && str[i + 1] <= 122)
+						str[i + 1] = str[i + 1] - 32;
 	}
-
 	return (str);
 }
