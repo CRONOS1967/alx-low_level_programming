@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * char *_strcat-appends the src string to the dest string, overwriting the
- * terminating null byte (\0) at the end of dest,
- * and then adds a terminating null byte.
- * @dest:String that will be appended
- * @src: String to be concatenated upon
- * Return: pointer to resulting dest
+ *_strcat - concatenates  the string pointed to by @src to
+ * the end of the string pointed to by @dest
+ *@dest: String that will be appended
+ *@src: String to be concatenated upon
+ *
+ * Return: returns poiner to @dest
  */
+
 char *_strcat(char *dest, char *src)
 {
 
