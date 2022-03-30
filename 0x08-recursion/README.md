@@ -1,3 +1,9 @@
+::: {role="main"}
+::: {#layout-bars}
+:::
+
+::: {.project .row}
+::: {.col-xs-12 .col-md-10 .col-lg-8 .contains-images}
 0x08. C - Recursion {#x08.-c---recursion .gap}
 ===================
 
@@ -33,7 +39,7 @@
 :::
 
 ::: {#project-description .well .clean}
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/219/a88.jpg)
+![](./Project_%200x08.%20C%20-%20Recursion%20_%20Addis%20Ababa%20Intranet_files/a88.jpg)
 
 Resources
 ---------
@@ -338,132 +344,7 @@ FYI: The standard library provides a similar function: `puts`. Run
 
 Help
 
-::: {#task-914-users-done-modal .modal .fade .users-done-modal task-id="914" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#students-who-are-done-with-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-914-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#correction-of-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="914"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -532,132 +413,7 @@ Write a function that prints a string in reverse.
 
 Help
 
-::: {#task-915-users-done-modal .modal .fade .users-done-modal task-id="915" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"1. Why is it so important to dream? Because, in my dreams we are together\" {#students-who-are-done-with-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-915-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"1. Why is it so important to dream? Because, in my dreams we are together\" {#correction-of-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="915"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -730,132 +486,7 @@ FYI: The standard library provides a similar function: `strlen`. Run
 
 Help
 
-::: {#task-916-users-done-modal .modal .fade .users-done-modal task-id="916" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#students-who-are-done-with-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-916-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#correction-of-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="916"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -940,132 +571,7 @@ Write a function that returns the factorial of a given number.
 
 Help
 
-::: {#task-917-users-done-modal .modal .fade .users-done-modal task-id="917" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#students-who-are-done-with-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-917-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#correction-of-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="917"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -1155,132 +661,7 @@ FYI: The standard library provides a different function: `pow`. Run
 
 Help
 
-::: {#task-918-users-done-modal .modal .fade .users-done-modal task-id="918" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#students-who-are-done-with-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-918-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#correction-of-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="918"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -1370,132 +751,7 @@ FYI: The standard library provides a different function: `sqrt`. Run
 
 Help
 
-::: {#task-919-users-done-modal .modal .fade .users-done-modal task-id="919" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Students who are done with \"5. Your subconscious is looking for the dreamer\" {#students-who-are-done-with-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
-:::
-
-::: {.modal-body}
-::: {.list-group}
-:::
-
-::: {.spinner}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-:::
-:::
-:::
-:::
-
 Check your code
-
-::: {#task-test-correction-919-correction-modal .modal .fade .task_correction_modal .student_modal}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
-
-#### Correction of \"5. Your subconscious is looking for the dreamer\" {#correction-of-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
-:::
-
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
-
-Start a new test
-
-Close
-
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
-
-::: {.bounce2}
-:::
-
-::: {.bounce3}
-:::
-:::
-
-::: {.error}
-:::
-
-::: {.info}
-:::
-:::
-
-::: {.result}
-:::
-
-::: {.help}
-
-::: {.help-container task-id="919"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
-
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
-
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
-
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
-
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
-
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
 Get a sandbox
 
@@ -1591,6 +847,993 @@ otherwise return `0`.
 
 Help
 
+Check your code
+
+Get a sandbox
+
+</div>
+:::
+:::
+:::
+
+[Done with the mandatory tasks? Unlock 2 advanced tasks
+now!](https://alx-intranet.hbtn.io/projects/219/unlock_optionals){.btn
+.btn-primary .btn-block}
+:::
+:::
+
+::: {.copyright}
+Copyright © 2022 ALX, All rights reserved.
+:::
+:::
+
+::: {#task-914-users-done-modal .modal .fade .users-done-modal task-id="914" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#students-who-are-done-with-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-914-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta style="display: none;"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#correction-of-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info}
+Some checks are failing. Make sure you fix them before starting a new
+review\
+**You got this!**
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error style="display: none;"}
+:::
+
+::: {.info style="display: none;"}
+:::
+:::
+
+::: {.result style="display: block;"}
+
+------------------------------------------------------------------------
+
+#### Result:
+
+::: {.well}
+##### Commit used:
+
+-   **URL:** [Click
+    here](https://github.com/CRONOS1967/alx-low_level_programming/tree/996223ccbc3fa9d8b13b91c68d2eafee4d77d616)
+-   **ID:** `996223ccbc3fa9d8b13b91c68d2eafee4d77d616`
+-   **Author:** cronos
+-   **Subject:** *first push for recursion*
+-   **Date:** 2022-03-30 16:00:04 +0300
+:::
+
+::: {#3739 .check-inline .requirement .success title="Requirement - success"}
+Check 0
+:::
+
+::: {#3843 .check-inline .requirement .success title="Requirement - success"}
+Check 1
+:::
+
+::: {#3740 .check-inline .requirement .fail title="Requirement - fail"}
+Check 2
+:::
+
+::: {#3741 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 3
+:::
+
+::: {#3946 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 4
+:::
+
+::: {#3742 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 5
+:::
+
+::: {#3746 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 6
+:::
+
+::: {#3747 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 7
+:::
+
+::: {#3748 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
+Check 8
+:::
+
+::: {#3744 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
+Check 9
+:::
+
+::: {#3743 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
+Check 10
+:::
+
+::: {#3745 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
+Check 11
+:::
+
+<div>
+
+See details
+
+::: {.conainer-full-output style="display: none;"}
+\
+
+You have access to the full output of the Checker - **Use it with
+reason!**
+
+<div>
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    File is present
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    README.md exists and is not empty
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head .expandable}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Compile program
+    :::
+
+    ::: {.timeline-event-content}
+    ::: {.timeline-event-body}
+    -   []{.fa-li}
+        ::: {.check-files}
+        [main\_0.c](https://s3.amazonaws.com/alx-intranet.hbtn.io/files/correction_system/219/914/main_0.c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220330T130238Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4711fcd0d92f0127cddf22e8a2785dcddf9ecde566ff754ad0a5c06a35fb462f){.check-file}
+        :::
+
+    -   []{.fa-li}
+
+            0-puts_recursion.c: In function ‘_puts_recursion’:
+            0-puts_recursion.c:11:8: error: comparison between pointer and integer [-Werror]
+               11 | if (*s == "/0")
+                  |        ^~
+            0-puts_recursion.c:11:8: error: comparison with string literal results in unspecified behavior [-Werror=address]
+            0-puts_recursion.c:13:10: error: passing argument 1 of ‘_putchar’ makes integer from pointer without a cast [-Werror=int-conversion]
+               13 | _putchar(s);
+                  |          ^
+                  |          |
+                  |          char *
+            In file included from 0-puts_recursion.c:1:
+            main.h:5:19: note: expected ‘char’ but argument is of type ‘char *’
+                5 | int _putchar(char c);
+                  |              ~~~~~^
+            cc1: all warnings being treated as errors
+    :::
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    ltrace allowed function: write
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    `static` variables are not allowed
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Loops are not allowed
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Correct output - case:
+    `_puts_recursion("First, solve the problem. Then, write the code");`
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Correct output - case:
+    `_puts_recursion("Talk is cheap. Show me the code");`
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Correct output - case: `_puts_recursion("");`
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Return SUCCESS
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Betty coding style
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+-   ::: {.timeline-event-head}
+    [ ]{.timeline-event-chevron style="width: 10px;"} [
+    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+    Betty documentation style
+    :::
+
+    ::: {.timeline-event-content}
+    :::
+
+</div>
+:::
+
+</div>
+:::
+
+::: {.help style="display: block;"}
+
+::: {.help-container task-id="914"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-915-users-done-modal .modal .fade .users-done-modal task-id="915" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"1. Why is it so important to dream? Because, in my dreams we are together\" {#students-who-are-done-with-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-915-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"1. Why is it so important to dream? Because, in my dreams we are together\" {#correction-of-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info .hidden}
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+
+::: {.info}
+:::
+:::
+
+::: {.result}
+:::
+
+::: {.help}
+
+::: {.help-container task-id="915"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-916-users-done-modal .modal .fade .users-done-modal task-id="916" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#students-who-are-done-with-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-916-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#correction-of-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info .hidden}
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+
+::: {.info}
+:::
+:::
+
+::: {.result}
+:::
+
+::: {.help}
+
+::: {.help-container task-id="916"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-917-users-done-modal .modal .fade .users-done-modal task-id="917" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#students-who-are-done-with-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-917-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#correction-of-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info .hidden}
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+
+::: {.info}
+:::
+:::
+
+::: {.result}
+:::
+
+::: {.help}
+
+::: {.help-container task-id="917"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-918-users-done-modal .modal .fade .users-done-modal task-id="918" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#students-who-are-done-with-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-918-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#correction-of-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info .hidden}
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+
+::: {.info}
+:::
+:::
+
+::: {.result}
+:::
+
+::: {.help}
+
+::: {.help-container task-id="918"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-919-users-done-modal .modal .fade .users-done-modal task-id="919" project-id="219"}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Students who are done with \"5. Your subconscious is looking for the dreamer\" {#students-who-are-done-with-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
+:::
+
+::: {.modal-body}
+::: {.list-group}
+:::
+
+::: {.spinner}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+:::
+:::
+:::
+:::
+
+::: {#task-test-correction-919-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
+::: {.modal-dialog}
+::: {.modal-content}
+::: {.modal-header}
+[×]{aria-hidden="true"}
+
+#### Correction of \"5. Your subconscious is looking for the dreamer\" {#correction-of-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
+:::
+
+::: {.modal-body}
+::: {.actions}
+::: {.alert .alert-info .hidden}
+:::
+
+Start a new test
+
+Close
+
+::: {.spinner style="display: none;"}
+::: {.bounce1}
+:::
+
+::: {.bounce2}
+:::
+
+::: {.bounce3}
+:::
+:::
+
+::: {.error}
+:::
+
+::: {.info}
+:::
+:::
+
+::: {.result}
+:::
+
+::: {.help}
+
+::: {.help-container task-id="919"}
+::: {.check-line}
+::: {.check-inline .requirement .success}
+Requirement success
+:::
+
+::: {.check-inline .requirement .fail}
+Requirement fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .code .success}
+Code success
+:::
+
+::: {.check-inline .code .fail}
+Code fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .efficiency .success}
+Efficiency success
+:::
+
+::: {.check-inline .efficiency .fail}
+Efficiency fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .answer .success}
+Text answer success
+:::
+
+::: {.check-inline .answer .fail}
+Text answer fail
+:::
+:::
+
+::: {.check-line}
+::: {.check-inline .requirement .fail .offline}
+Skipped - Previous check failed
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+:::
+
 ::: {#task-920-users-done-modal .modal .fade .users-done-modal task-id="920" project-id="219"}
 ::: {.modal-dialog}
 ::: {.modal-content}
@@ -1622,9 +1865,7 @@ Help
 :::
 :::
 
-Check your code
-
-::: {#task-test-correction-920-correction-modal .modal .fade .task_correction_modal .student_modal}
+::: {#task-test-correction-920-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
 ::: {.modal-dialog}
 ::: {.modal-content}
 ::: {.modal-header}
@@ -1718,17 +1959,6 @@ Skipped - Previous check failed
 :::
 :::
 
-Get a sandbox
-
-</div>
-:::
-:::
-:::
-
-[Done with the mandatory tasks? Unlock 2 advanced tasks
-now!](https://alx-intranet.hbtn.io/projects/219/unlock_optionals){.btn
-.btn-primary .btn-block}
-
 ::: {#container-specs-modal .modal .fade}
 ::: {.modal-dialog .modal-lg}
 ::: {.modal-content}
@@ -1780,13 +2010,6 @@ Foundations
 :::
 :::
 :::
-:::
-:::
-:::
-:::
-
-::: {.copyright}
-Copyright © 2022 ALX, All rights reserved.
 :::
 :::
 
