@@ -1,64 +1,60 @@
-::: {role="main"}
-::: {#layout-bars}
-:::
+<div role="main">
 
-::: {.project .row}
-::: {.col-xs-12 .col-md-10 .col-lg-8 .contains-images}
-0x08. C - Recursion {#x08.-c---recursion .gap}
-===================
+<div class="project row">
 
-::: {react-class="tags/Tags" react-props="{\"tags\":[]}" react-cache-id="tags/Tags-0"}
-:::
+<div class="col-xs-12 col-md-10 col-lg-8 contains-images">
 
--    By Julien Barbier
--    Weight: 1
--    Ongoing project - started
-    ::: {.d-inline-block react-class="common/DateTime" react-props="{\"showDate\":true,\"showTime\":false,\"value\":\"2022-03-30T06:00:00.000+03:00\"}" react-cache-id="common/DateTime-0"}
-    [[Mar 30, 2022 ]{.datetime}]{container="body" html="false"
-    placement="auto top" toggle="tooltip" title=""
-    original-title="2022-03-30 06:00 (GMT+03:00)"}
-    :::
+# 0x08. C - Recursion
 
+<div data-react-class="tags/Tags" data-react-props="{&quot;tags&quot;:[]}" data-react-cache-id="tags/Tags-0">
+
+</div>
+
+  - ** By Julien Barbier
+  - ** Weight: 1
+  - ** Ongoing project - started
+    <div class="d-inline-block" data-react-class="common/DateTime" data-react-props="{&quot;showDate&quot;:true,&quot;showTime&quot;:false,&quot;value&quot;:&quot;2022-03-30T06:00:00.000+03:00&quot;}" data-react-cache-id="common/DateTime-0">
+    <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-30 06:00 (GMT+03:00)"><span class="datetime">Mar
+    30, 2022 </span></span>
+    </div>
     , must end by
-    ::: {.d-inline-block react-class="common/DateTime" react-props="{\"showDate\":true,\"showTime\":false,\"value\":\"2022-03-31T06:00:00.000+03:00\"}" react-cache-id="common/DateTime-0"}
-    [[Mar 31, 2022 ]{.datetime}]{container="body" html="false"
-    placement="auto top" toggle="tooltip" title=""
-    original-title="2022-03-31 06:00 (GMT+03:00)"}
-    :::
+    <div class="d-inline-block" data-react-class="common/DateTime" data-react-props="{&quot;showDate&quot;:true,&quot;showTime&quot;:false,&quot;value&quot;:&quot;2022-03-31T06:00:00.000+03:00&quot;}" data-react-cache-id="common/DateTime-0">
+    <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-31 06:00 (GMT+03:00)"><span class="datetime">Mar
+    31, 2022 </span></span>
+    </div>
+    \- you're done with
+    <span id="student_task_done_percentage">0</span>% of tasks.
+  - ** Checker was released at
+    <div class="d-inline-block" data-react-class="common/DateTime" data-react-props="{&quot;showDate&quot;:true,&quot;showTime&quot;:true,&quot;value&quot;:&quot;2022-03-30T06:00:00.000+03:00&quot;}" data-react-cache-id="common/DateTime-0">
+    <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-30 06:00 (GMT+03:00)"><span class="datetime">Mar
+    30, 2022 6:00 AM</span></span>
+    </div>
+  - ** An auto review will be launched at the deadline
 
-    \- you\'re done with [0]{#student_task_done_percentage}% of tasks.
--    Checker was released at
-    ::: {.d-inline-block react-class="common/DateTime" react-props="{\"showDate\":true,\"showTime\":true,\"value\":\"2022-03-30T06:00:00.000+03:00\"}" react-cache-id="common/DateTime-0"}
-    [[Mar 30, 2022 6:00 AM]{.datetime}]{container="body" html="false"
-    placement="auto top" toggle="tooltip" title=""
-    original-title="2022-03-30 06:00 (GMT+03:00)"}
-    :::
--    An auto review will be launched at the deadline
+<div id="project_id" style="display: none" data-project-id="219">
 
-::: {#project_id style="display: none" project-id="219"}
-:::
+</div>
 
-::: {#project-description .well .clean}
+<div id="project-description" class="well clean">
+
 ![](./Project_%200x08.%20C%20-%20Recursion%20_%20Addis%20Ababa%20Intranet_files/a88.jpg)
 
-Resources
----------
+## Resources
 
 **Read or watch**:
 
--   [0x08. Recursion,
+  - [0x08. Recursion,
     introduction](https://alx-intranet.hbtn.io/rltoken/dzZB83Hm3lO7dScjhebAxw "0x08. Recursion, introduction")
--   [What on Earth is
+  - [What on Earth is
     Recursion?](https://alx-intranet.hbtn.io/rltoken/xYjKl3024oN58Bi_621_vQ "What on Earth is Recursion?")
--   [C -
+  - [C -
     Recursion](https://alx-intranet.hbtn.io/rltoken/u4ojc5CZpf4qiuQvmXCiOA "C - Recursion")
--   [C Programming Tutorial 85, Recursion
+  - [C Programming Tutorial 85, Recursion
     pt.1](https://alx-intranet.hbtn.io/rltoken/Wv-wffgpXelN9ZTrbmiOyA "C Programming Tutorial 85, Recursion pt.1")
--   [C Programming Tutorial 86, Recursion
+  - [C Programming Tutorial 86, Recursion
     pt.2](https://alx-intranet.hbtn.io/rltoken/7GVdI-KT-M1vOIzwEjSahQ "C Programming Tutorial 86, Recursion pt.2")
 
-Learning Objectives
--------------------
+## Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to
 anyone](https://alx-intranet.hbtn.io/rltoken/Uip4OgfLQdGP921TAMtCHQ "explain to anyone"),
@@ -66,61 +62,67 @@ anyone](https://alx-intranet.hbtn.io/rltoken/Uip4OgfLQdGP921TAMtCHQ "explain to 
 
 ### General
 
--   What is recursion
--   How to implement recursion
--   In what situations you should implement recursion
--   In what situations you shouldn't implement recursion
+  - What is recursion
+  - How to implement recursion
+  - In what situations you should implement recursion
+  - In what situations you shouldn’t implement recursion
 
-Requirements
-------------
+## Requirements
 
 ### General
 
--   Allowed editors: `vi`, `vim`, `emacs`
--   All your files will be compiled on Ubuntu 20.04 LTS using `gcc`,
+  - Allowed editors: `vi`, `vim`, `emacs`
+  - All your files will be compiled on Ubuntu 20.04 LTS using `gcc`,
     using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
--   All your files should end with a new line
--   A `README.md` file, at the root of the folder of the project is
+  - All your files should end with a new line
+  - A `README.md` file, at the root of the folder of the project is
     mandatory
--   Your code should use the `Betty` style. It will be checked using
+  - Your code should use the `Betty` style. It will be checked using
     [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl "betty-style.pl")
     and
     [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
--   You are not allowed to use global variables
--   No more than 5 functions per file
--   You are not allowed to use the standard library. Any use of
-    functions like `printf`, `puts`, etc... is forbidden
--   You are allowed to use
+  - You are not allowed to use global variables
+  - No more than 5 functions per file
+  - You are not allowed to use the standard library. Any use of
+    functions like `printf`, `puts`, etc… is forbidden
+  - You are allowed to use
     [\_putchar](https://github.com/holbertonschool/_putchar.c/blob/master/_putchar.c "_putchar")
--   You don't have to push `_putchar.c`, we will use our file. If you do
-    it won't be taken into account
--   In the following examples, the `main.c` files are shown as examples.
-    You can use them to test your functions, but you don't have to push
-    them to your repo (if you do we won't take them into account). We
+  - You don’t have to push `_putchar.c`, we will use our file. If you do
+    it won’t be taken into account
+  - In the following examples, the `main.c` files are shown as examples.
+    You can use them to test your functions, but you don’t have to push
+    them to your repo (if you do we won’t take them into account). We
     will use our own `main.c` files at compilation. Our `main.c` files
     might be different from the one shown in the examples
--   The prototypes of all your functions and the prototype of the
+  - The prototypes of all your functions and the prototype of the
     function `_putchar` should be included in your header file called
     `main.h`
--   Don't forget to push your header file
--   **You are not allowed to use any kind of loops**
--   You are not allowed to use `static` variables
-:::
+  - Don’t forget to push your header file
+  - **You are not allowed to use any kind of loops**
+  - You are not allowed to use `static` variables
 
-Quiz questions {#project-quiz-questions-title .gap}
---------------
+</div>
 
-::: {.panel .panel-default}
-::: {.panel-body}
-::: {.alert .alert-info}
-**Great!** You\'ve completed the quiz successfully! Keep going! [(Show
-quiz)]{#quiz_questions_collapse_toggle}
-:::
+## Quiz questions
 
-::: {.section .quiz_questions_show_container style="display: none;"}
-::: {.quiz_question_item_container data-role="quiz_question459" position="1"}
-::: {#quiz_question-459 .clearfix}
-#### Question \#0 {#question-0 .quiz_question}
+<div class="panel panel-default">
+
+<div class="panel-body">
+
+<div class="alert alert-info">
+
+**Great\!** You've completed the quiz successfully\! Keep going\!
+<span id="quiz_questions_collapse_toggle">(Show quiz)</span>
+
+</div>
+
+<div class="section quiz_questions_show_container" style="display: none;">
+
+<div class="quiz_question_item_container" data-role="quiz_question459" data-position="1">
+
+<div id="quiz_question-459" class="clearfix">
+
+#### Question \#0
 
 What does this code print?
 
@@ -133,26 +135,30 @@ What does this code print?
             print(nb);
         }
     }
-
+    
     int main(void)
     {
         print(2);
         return (0);
     }
 
--   012
+  - 012
 
--   12
+  - 12
 
--   21
+  - 21
 
--   210
-:::
-:::
+  - 210
 
-::: {.quiz_question_item_container data-role="quiz_question460" position="2"}
-::: {#quiz_question-460 .clearfix}
-#### Question \#1 {#question-1 .quiz_question}
+</div>
+
+</div>
+
+<div class="quiz_question_item_container" data-role="quiz_question460" data-position="2">
+
+<div id="quiz_question-460" class="clearfix">
+
+#### Question \#1
 
 What does this code print?
 
@@ -165,26 +171,30 @@ What does this code print?
             print(nb);
         }
     }
-
+    
     int main(void)
     {
         print(4);
         return (0);
     }
 
--   4321
+  - 4321
 
--   43210
+  - 43210
 
--   321
+  - 321
 
--   3210
-:::
-:::
+  - 3210
 
-::: {.quiz_question_item_container data-role="quiz_question461" position="3"}
-::: {#quiz_question-461 .clearfix}
-#### Question \#2 {#question-2 .quiz_question}
+</div>
+
+</div>
+
+<div class="quiz_question_item_container" data-role="quiz_question461" data-position="3">
+
+<div id="quiz_question-461" class="clearfix">
+
+#### Question \#2
 
 What does this code print?
 
@@ -197,26 +207,30 @@ What does this code print?
             print(nb);
         }
     }
-
+    
     int main(void)
     {
         print(4);
         return (0);
     }
 
--   987654
+  - 987654
 
--   109876543
+  - 109876543
 
--   345678910
+  - 345678910
 
--   456789
-:::
-:::
+  - 456789
 
-::: {.quiz_question_item_container data-role="quiz_question462" position="4"}
-::: {#quiz_question-462 .clearfix}
-#### Question \#3 {#question-3 .quiz_question}
+</div>
+
+</div>
+
+<div class="quiz_question_item_container" data-role="quiz_question462" data-position="4">
+
+<div id="quiz_question-462" class="clearfix">
+
+#### Question \#3
 
 What does this code print?
 
@@ -230,26 +244,30 @@ What does this code print?
         nb --;
         print(nb);
     }
-
+    
     int main(void)
     {
         print(4);
         return (0);
     }
 
--   01234
+  - 01234
 
--   43210
+  - 43210
 
--   1234
+  - 1234
 
--   4321
-:::
-:::
+  - 4321
 
-::: {.quiz_question_item_container data-role="quiz_question463" position="5"}
-::: {#quiz_question-463 .clearfix}
-#### Question \#4 {#question-4 .quiz_question}
+</div>
+
+</div>
+
+<div class="quiz_question_item_container" data-role="quiz_question463" data-position="5">
+
+<div id="quiz_question-463" class="clearfix">
+
+#### Question \#4
 
 What does this code print?
 
@@ -263,54 +281,63 @@ What does this code print?
         nb --;
         return (nb);
     }
-
+    
     int main(void)
     {
         print(4);
         return (0);
     }
 
--   64200
+  - 64200
 
--   00246
+  - 00246
 
--   01234568
-:::
-:::
-:::
-:::
-:::
+  - 01234568
 
-Tasks {#tasks .gap}
------
+</div>
 
-::: {#task-num-0 data-role="task914" position="1"}
-::: {#task-914 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget {#she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .panel-title}
+</div>
+
+</div>
+
+</div>
+
+## Tasks
+
+<div id="task-num-0" data-role="task914" data-position="1">
+
+<div id="task-914" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 0\. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that prints a string, followed by a new line.
 
--   Prototype: `void _puts_recursion(char *s);`
+  - Prototype: `void _puts_recursion(char *s);`
 
-FYI: The standard library provides a similar function: `puts`. Run
-`man puts` to learn more.
+FYI: The standard library provides a similar function: `puts`. Run `man
+puts` to learn more.
 
     julien@ubuntu:~/0x08. Recursion$ cat 0-main.c
     #include "main.h"
-
+    
     /**
      * main - check the code
      *
@@ -325,61 +352,76 @@ FYI: The standard library provides a similar function: `puts`. Run
     julien@ubuntu:~/0x08. Recursion$ ./0-puts_recursion 
     Puts with recursion
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `0-puts_recursion.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `0-puts_recursion.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-1 data-role="task915" position="2"}
-::: {#task-915 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 1. Why is it so important to dream? Because, in my dreams we are together {#why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-1" data-role="task915" data-position="2">
+
+<div id="task-915" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 1\. Why is it so important to dream? Because, in my dreams we are together
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that prints a string in reverse.
 
--   Prototype: `void _print_rev_recursion(char *s);`
+  - Prototype: `void _print_rev_recursion(char *s);`
 
-```{=html}
-<!-- -->
-```
+<!-- end list -->
+
     julien@ubuntu:~/0x08. Recursion$ cat 1-main.c
     #include "main.h"
-
+    
     /**
      * main - check the code
      *
@@ -394,54 +436,70 @@ Write a function that prints a string in reverse.
     julien@ubuntu:~/0x08. Recursion$ ./1-print_rev_recursion 
     reklaW notloC
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `1-print_rev_recursion.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `1-print_rev_recursion.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-2 data-role="task916" position="3"}
-::: {#task-916 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange {#dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-2" data-role="task916" data-position="3">
+
+<div id="task-916" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 2\. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that returns the length of a string.
 
--   Prototype: `int _strlen_recursion(char *s);`
+  - Prototype: `int _strlen_recursion(char *s);`
 
 FYI: The standard library provides a similar function: `strlen`. Run
 `man strlen` to learn more.
@@ -449,7 +507,7 @@ FYI: The standard library provides a similar function: `strlen`. Run
     julien@ubuntu:~/0x08. Recursion$ cat 2-main.c 
     #include "main.h"
     #include <stdio.h>
-
+    
     /**
      * main - check the code
      *
@@ -458,7 +516,7 @@ FYI: The standard library provides a similar function: `strlen`. Run
     int main(void)
     {
         int n;
-
+    
         n = _strlen_recursion("Corbin Coleman");
         printf("%d\n", n);
         return (0);
@@ -467,65 +525,80 @@ FYI: The standard library provides a similar function: `strlen`. Run
     julien@ubuntu:~/0x08. Recursion$ ./2-strlen_recursion 
     14
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `2-strlen_recursion.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `2-strlen_recursion.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-3 data-role="task917" position="4"}
-::: {#task-917 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 3. You mustn\'t be afraid to dream a little bigger, darling {#you-mustnt-be-afraid-to-dream-a-little-bigger-darling .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-3" data-role="task917" data-position="4">
+
+<div id="task-917" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 3\. You mustn't be afraid to dream a little bigger, darling
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that returns the factorial of a given number.
 
--   Prototype: `int factorial(int n);`\
--   If `n` is lower than `0`, the function should return `-1` to
-    indicate an error\
--   Factorial of `0` is `1`
+  - Prototype: `int factorial(int n);`  
+  - If `n` is lower than `0`, the function should return `-1` to
+    indicate an error  
+  - Factorial of `0` is `1`
 
-```{=html}
-<!-- -->
-```
+<!-- end list -->
+
     julien@ubuntu:~/0x08. Recursion$ cat 3-main.c
     #include "main.h"
     #include <stdio.h>
-
+    
     /**
      * main - check the code
      *
@@ -534,7 +607,7 @@ Write a function that returns the factorial of a given number.
     int main(void)
     {
         int r;
-
+    
         r = factorial(1);
         printf("%d\n", r);
         r = factorial(5);
@@ -552,64 +625,80 @@ Write a function that returns the factorial of a given number.
     3628800
     -1
     julien@ubuntu:~/0x08. Recursion$
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `3-factorial.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `3-factorial.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-4 data-role="task918" position="5"}
-::: {#task-918 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate {#once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-4" data-role="task918" data-position="5">
+
+<div id="task-918" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 4\. Once an idea has taken hold of the brain it's almost impossible to eradicate
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that returns the value of `x` raised to the power of
 `y`.
 
--   Prototype: `int _pow_recursion(int x, int y);`\
--   If `y` is lower than `0`, the function should return `-1`
+  - Prototype: `int _pow_recursion(int x, int y);`  
+  - If `y` is lower than `0`, the function should return `-1`
 
-FYI: The standard library provides a different function: `pow`. Run
-`man pow` to learn more.
+FYI: The standard library provides a different function: `pow`. Run `man
+pow` to learn more.
 
     julien@ubuntu:~/0x08. Recursion$ cat 4-main.c
     #include "main.h"
     #include <stdio.h>
-
+    
     /**
      * main - check the code
      *
@@ -618,7 +707,7 @@ FYI: The standard library provides a different function: `pow`. Run
     int main(void)
     {
         int r;
-
+    
         r = _pow_recursion(1, 10);
         printf("%d\n", r);
         r = _pow_recursion(1024, 0);
@@ -642,55 +731,71 @@ FYI: The standard library provides a different function: `pow`. Run
     -1
     -125
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `4-pow_recursion.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `4-pow_recursion.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-5 data-role="task919" position="6"}
-::: {#task-919 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 5. Your subconscious is looking for the dreamer {#your-subconscious-is-looking-for-the-dreamer .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-5" data-role="task919" data-position="6">
+
+<div id="task-919" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 5\. Your subconscious is looking for the dreamer
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that returns the natural square root of a number.
 
--   Prototype: `int _sqrt_recursion(int n);`\
--   If `n` does not have a natural square root, the function should
+  - Prototype: `int _sqrt_recursion(int n);`  
+  - If `n` does not have a natural square root, the function should
     return `-1`
 
 FYI: The standard library provides a different function: `sqrt`. Run
@@ -699,7 +804,7 @@ FYI: The standard library provides a different function: `sqrt`. Run
     julien@ubuntu:~/0x08. Recursion$ cat 5-main.c 
     #include "main.h"
     #include <stdio.h>
-
+    
     /**
      * main - check the code
      *
@@ -708,7 +813,7 @@ FYI: The standard library provides a different function: `sqrt`. Run
     int main(void)
     {
         int r;
-
+    
         r = _sqrt_recursion(1);
         printf("%d\n", r);
         r = _sqrt_recursion(1024);
@@ -732,64 +837,79 @@ FYI: The standard library provides a different function: `sqrt`. Run
     5
     -1
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `5-sqrt_recursion.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `5-sqrt_recursion.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
 
-::: {#task-num-6 data-role="task920" position="7"}
-::: {#task-920 .panel .panel-default .task-card}
-[]{#user_id data-id="4445"}
+</div>
 
-::: {.panel-heading .panel-heading-actions}
-### 6. Inception. Is it possible? {#inception.-is-it-possible .panel-title}
+</div>
+
+</div>
+
+<div id="task-num-6" data-role="task920" data-position="7">
+
+<div id="task-920" class="panel panel-default task-card">
+
+<span id="user_id" data-id="4445"></span>
+
+<div class="panel-heading panel-heading-actions">
+
+### 6\. Inception. Is it possible?
 
 <div>
 
-[ mandatory ]{.label .label-info}
+<span class="label label-info"> mandatory </span>
 
 </div>
-:::
 
-::: {.panel-body}
-[]{#user_id data-id="4445"}
+</div>
+
+<div class="panel-body">
+
+<span id="user_id" data-id="4445"></span>
 
 Write a function that returns `1` if the input integer is a [prime
 number](https://alx-intranet.hbtn.io/rltoken/bjG_8Gu-_0rwbYA_tAv2Yw "prime number"),
 otherwise return `0`.
 
--   Prototype: `int is_prime_number(int n);`
+  - Prototype: `int is_prime_number(int n);`
 
-```{=html}
-<!-- -->
-```
+<!-- end list -->
+
     julien@ubuntu:~/0x08. Recursion$ cat 6-main.c
     #include "main.h"
     #include <stdio.h>
-
+    
     /**
      * main - check the code
      *
@@ -798,7 +918,7 @@ otherwise return `0`.
     int main(void)
     {
         int r;
-
+    
         r = is_prime_number(1);
         printf("%d\n", r);
         r = is_prime_number(1024);
@@ -828,225 +948,328 @@ otherwise return `0`.
     1
     1
     julien@ubuntu:~/0x08. Recursion$ 
-:::
 
-::: {.list-group}
-::: {.list-group-item}
+</div>
+
+<div class="list-group">
+
+<div class="list-group-item">
+
 **Repo:**
 
--   GitHub repository: `alx-low_level_programming`
--   Directory: `0x08-recursion`
--   File: `6-is_prime_number.c`
-:::
-:::
+  - GitHub repository: `alx-low_level_programming`
+  - Directory: `0x08-recursion`
+  - File: `6-is_prime_number.c`
 
-::: {.panel-footer}
+</div>
+
+</div>
+
+<div class="panel-footer">
+
 <div>
 
-[]{.no} []{.yes} []{.pending} Done[?]{.no .pending}[!]{.yes}
+<span class="no">**</span> <span class="yes">**</span>
+<span class="pending">**</span>
+Done<span class="no pending">?</span><span class="yes">\!</span>
 
 Help
 
 Check your code
 
-Get a sandbox
+**<span>Get a sandbox</span>
 
 </div>
-:::
-:::
-:::
+
+</div>
+
+</div>
+
+</div>
 
 [Done with the mandatory tasks? Unlock 2 advanced tasks
-now!](https://alx-intranet.hbtn.io/projects/219/unlock_optionals){.btn
-.btn-primary .btn-block}
-:::
-:::
+now\!](https://alx-intranet.hbtn.io/projects/219/unlock_optionals)
 
-::: {.copyright}
+</div>
+
+</div>
+
+<div class="copyright">
+
 Copyright © 2022 ALX, All rights reserved.
-:::
-:::
 
-::: {#task-914-users-done-modal .modal .fade .users-done-modal task-id="914" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+</div>
 
-#### Students who are done with \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#students-who-are-done-with-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.list-group}
-:::
+** **
 
-::: {.spinner}
-::: {.bounce1}
-:::
+<div id="task-914-users-done-modal" class="modal fade users-done-modal" data-task-id="914" data-project-id="219">
 
-::: {.bounce2}
-:::
+<div class="modal-dialog">
 
-::: {.bounce3}
-:::
-:::
+<div class="modal-content">
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+<div class="modal-header">
 
-::: {#task-test-correction-914-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta style="display: none;"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+<span aria-hidden="true">×</span>
 
-#### Correction of \"0. She locked away a secret, deep inside herself, something she once knew to be true\... but chose to forget\" {#correction-of-0.-she-locked-away-a-secret-deep-inside-herself-something-she-once-knew-to-be-true...-but-chose-to-forget .modal-title}
-:::
+#### Students who are done with "0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info}
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-914-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta" style="display: none;">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info">
+
 Some checks are failing. Make sure you fix them before starting a new
-review\
-**You got this!**
-:::
+review  
+**You got this\!**
+
+</div>
 
 Start a new test
 
 Close
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+<div class="spinner" style="display: none;">
 
-::: {.bounce2}
-:::
+<div class="bounce1">
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error style="display: none;"}
-:::
+<div class="bounce2">
 
-::: {.info style="display: none;"}
-:::
-:::
+</div>
 
-::: {.result style="display: block;"}
+<div class="bounce3">
 
-------------------------------------------------------------------------
+</div>
+
+</div>
+
+<div class="error" style="display: none;">
+
+</div>
+
+<div class="info" style="display: none;">
+
+</div>
+
+</div>
+
+<div class="result" style="display: block;">
+
+-----
 
 #### Result:
 
-::: {.well}
+<div class="well">
+
 ##### Commit used:
 
--   **URL:** [Click
+  - **URL:** [Click
     here](https://github.com/CRONOS1967/alx-low_level_programming/tree/996223ccbc3fa9d8b13b91c68d2eafee4d77d616)
--   **ID:** `996223ccbc3fa9d8b13b91c68d2eafee4d77d616`
--   **Author:** cronos
--   **Subject:** *first push for recursion*
--   **Date:** 2022-03-30 16:00:04 +0300
-:::
+  - **ID:** `996223ccbc3fa9d8b13b91c68d2eafee4d77d616`
+  - **Author:** <span>cronos</span>
+  - **Subject:** *first push for recursion*
+  - **Date:** <span>2022-03-30 16:00:04 +0300</span>
 
-::: {#3739 .check-inline .requirement .success title="Requirement - success"}
-Check 0
-:::
+</div>
 
-::: {#3843 .check-inline .requirement .success title="Requirement - success"}
-Check 1
-:::
+<div id="3739" class="check-inline requirement success" title="Requirement - success">
 
-::: {#3740 .check-inline .requirement .fail title="Requirement - fail"}
-Check 2
-:::
+**Check 0
 
-::: {#3741 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 3
-:::
+</div>
 
-::: {#3946 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 4
-:::
+<div id="3843" class="check-inline requirement success" title="Requirement - success">
 
-::: {#3742 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 5
-:::
+**Check 1
 
-::: {#3746 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 6
-:::
+</div>
 
-::: {#3747 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 7
-:::
+<div id="3740" class="check-inline requirement fail" title="Requirement - fail">
 
-::: {#3748 .check-inline .requirement .fail .offline title="Skipped - previous check failed - Requirement - fail"}
-Check 8
-:::
+**Check 2
 
-::: {#3744 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
-Check 9
-:::
+</div>
 
-::: {#3743 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
-Check 10
-:::
+<div id="3741" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
 
-::: {#3745 .check-inline .code .fail .offline title="Skipped - previous check failed - Correct output of your code - fail"}
-Check 11
-:::
+**Check 3
+
+</div>
+
+<div id="3946" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
+
+**Check 4
+
+</div>
+
+<div id="3742" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
+
+**Check 5
+
+</div>
+
+<div id="3746" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
+
+**Check 6
+
+</div>
+
+<div id="3747" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
+
+**Check 7
+
+</div>
+
+<div id="3748" class="check-inline requirement fail offline" title="Skipped - previous check failed - Requirement - fail">
+
+**Check 8
+
+</div>
+
+<div id="3744" class="check-inline code fail offline" title="Skipped - previous check failed - Correct output of your code - fail">
+
+**Check 9
+
+</div>
+
+<div id="3743" class="check-inline code fail offline" title="Skipped - previous check failed - Correct output of your code - fail">
+
+**Check 10
+
+</div>
+
+<div id="3745" class="check-inline code fail offline" title="Skipped - previous check failed - Correct output of your code - fail">
+
+**Check 11
+
+</div>
 
 <div>
 
-See details
+<span>See details</span>
 
-::: {.conainer-full-output style="display: none;"}
-\
+<div class="conainer-full-output" style="display: none;">
+
+  
 
 You have access to the full output of the Checker - **Use it with
-reason!**
+reason\!**
 
 <div>
 
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     File is present
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     README.md exists and is not empty
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head .expandable}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head expandable">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> **
+    </span> <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Compile program
-    :::
-
-    ::: {.timeline-event-content}
-    ::: {.timeline-event-body}
-    -   []{.fa-li}
-        ::: {.check-files}
-        [main\_0.c](https://s3.amazonaws.com/alx-intranet.hbtn.io/files/correction_system/219/914/main_0.c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220330T130238Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4711fcd0d92f0127cddf22e8a2785dcddf9ecde566ff754ad0a5c06a35fb462f){.check-file}
-        :::
-
-    -   []{.fa-li}
-
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    <div class="timeline-event-body">
+    
+      - <span class="fa-li">**</span>
+        
+        <div class="check-files">
+        
+        [main\_0.c](https://s3.amazonaws.com/alx-intranet.hbtn.io/files/correction_system/219/914/main_0.c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220330%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220330T130238Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4711fcd0d92f0127cddf22e8a2785dcddf9ecde566ff754ad0a5c06a35fb462f)
+        
+        </div>
+    
+      - <span class="fa-li">**</span>
+        
             0-puts_recursion.c: In function ‘_puts_recursion’:
             0-puts_recursion.c:11:8: error: comparison between pointer and integer [-Werror]
                11 | if (*s == "/0")
@@ -1062,994 +1285,1576 @@ reason!**
                 5 | int _putchar(char c);
                   |              ~~~~~^
             cc1: all warnings being treated as errors
-    :::
-    :::
+    
+    </div>
+    
+    </div>
 
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     ltrace allowed function: write
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     `static` variables are not allowed
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Loops are not allowed
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
+    Correct output - case: `_puts_recursion("First, solve the problem.
+    Then, write the code");`
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
-    Correct output - case:
-    `_puts_recursion("First, solve the problem. Then, write the code");`
-    :::
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
+    Correct output - case: `_puts_recursion("Talk is cheap. Show me the
+    code");`
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
-    Correct output - case:
-    `_puts_recursion("Talk is cheap. Show me the code");`
-    :::
-
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Correct output - case: `_puts_recursion("");`
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Return SUCCESS
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Betty coding style
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
-    ::: {.timeline-event-content}
-    :::
-
--   ::: {.timeline-event-head}
-    [ ]{.timeline-event-chevron style="width: 10px;"} [
-    ]{.timeline-event-sticker .colored} [ ]{.timeline-event-title}
+  - 
+    
+    <div class="timeline-event-head">
+    
+    <span class="timeline-event-chevron" style="width: 10px;"> </span>
+    <span class="timeline-event-sticker colored"> ** </span>
+    <span class="timeline-event-title"> </span>
+    
     Betty documentation style
-    :::
-
-    ::: {.timeline-event-content}
-    :::
+    
+    </div>
+    
+    <div class="timeline-event-content">
+    
+    </div>
 
 </div>
-:::
 
 </div>
-:::
 
-::: {.help style="display: block;"}
+</div>
 
-::: {.help-container task-id="914"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+</div>
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+<div class="help" style="display: block;">
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+**
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="help-container" data-task-id="914">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+<div class="check-line">
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+<div class="check-inline requirement success">
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+** Requirement success
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="check-inline requirement fail">
 
-::: {#task-915-users-done-modal .modal .fade .users-done-modal task-id="915" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+** Requirement fail
 
-#### Students who are done with \"1. Why is it so important to dream? Because, in my dreams we are together\" {#students-who-are-done-with-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.list-group}
-:::
+</div>
 
-::: {.spinner}
-::: {.bounce1}
-:::
+<div class="check-line">
 
-::: {.bounce2}
-:::
+<div class="check-inline code success">
 
-::: {.bounce3}
-:::
-:::
+** Code success
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+</div>
 
-::: {#task-test-correction-915-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+<div class="check-inline code fail">
 
-#### Correction of \"1. Why is it so important to dream? Because, in my dreams we are together\" {#correction-of-1.-why-is-it-so-important-to-dream-because-in-my-dreams-we-are-together .modal-title}
-:::
+** Code fail
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
 
-Start a new test
+</div>
 
-Close
+<div class="check-line">
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+<div class="check-inline efficiency success">
 
-::: {.bounce2}
-:::
+** Efficiency success
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
+<div class="check-inline efficiency fail">
 
-::: {.info}
-:::
-:::
+** Efficiency fail
 
-::: {.result}
-:::
+</div>
 
-::: {.help}
+</div>
 
-::: {.help-container task-id="915"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+<div class="check-line">
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+<div class="check-inline answer success">
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+** Text answer success
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+<div class="check-inline answer fail">
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+** Text answer fail
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+</div>
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="check-line">
 
-::: {#task-916-users-done-modal .modal .fade .users-done-modal task-id="916" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+<div class="check-inline requirement fail offline">
 
-#### Students who are done with \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#students-who-are-done-with-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
-:::
+** Skipped - Previous check failed
 
-::: {.modal-body}
-::: {.list-group}
-:::
+</div>
 
-::: {.spinner}
-::: {.bounce1}
-:::
+</div>
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+</div>
 
-::: {#task-test-correction-916-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+</div>
 
-#### Correction of \"2. Dreams feel real while we\'re in them. It\'s only when we wake up that we realize something was actually strange\" {#correction-of-2.-dreams-feel-real-while-were-in-them.-its-only-when-we-wake-up-that-we-realize-something-was-actually-strange .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
+
+<div id="task-915-users-done-modal" class="modal fade users-done-modal" data-task-id="915" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "1. Why is it so important to dream? Because, in my dreams we are together"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-915-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "1. Why is it so important to dream? Because, in my dreams we are together"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
 
 Start a new test
 
 Close
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+<div class="spinner" style="display: none;">
 
-::: {.bounce2}
-:::
+<div class="bounce1">
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
+<div class="bounce2">
 
-::: {.info}
-:::
-:::
+</div>
 
-::: {.result}
-:::
+<div class="bounce3">
 
-::: {.help}
+</div>
 
-::: {.help-container task-id="916"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+</div>
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+<div class="error">
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+</div>
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="info">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+</div>
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+<div class="result">
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="help">
 
-::: {#task-917-users-done-modal .modal .fade .users-done-modal task-id="917" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+**
 
-#### Students who are done with \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#students-who-are-done-with-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
-:::
+<div class="help-container" data-task-id="915">
 
-::: {.modal-body}
-::: {.list-group}
-:::
+<div class="check-line">
 
-::: {.spinner}
-::: {.bounce1}
-:::
+<div class="check-inline requirement success">
 
-::: {.bounce2}
-:::
+** Requirement success
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+<div class="check-inline requirement fail">
 
-::: {#task-test-correction-917-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+** Requirement fail
 
-#### Correction of \"3. You mustn\'t be afraid to dream a little bigger, darling\" {#correction-of-3.-you-mustnt-be-afraid-to-dream-a-little-bigger-darling .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
 
-Start a new test
+<div class="check-line">
 
-Close
+<div class="check-inline code success">
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+** Code success
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+<div class="check-inline code fail">
 
-::: {.error}
-:::
+** Code fail
 
-::: {.info}
-:::
-:::
+</div>
 
-::: {.result}
-:::
+</div>
 
-::: {.help}
+<div class="check-line">
 
-::: {.help-container task-id="917"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+<div class="check-inline efficiency success">
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+** Efficiency success
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+</div>
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="check-inline efficiency fail">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+** Efficiency fail
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+</div>
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+<div class="check-line">
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="check-inline answer success">
 
-::: {#task-918-users-done-modal .modal .fade .users-done-modal task-id="918" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+** Text answer success
 
-#### Students who are done with \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#students-who-are-done-with-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.list-group}
-:::
+<div class="check-inline answer fail">
 
-::: {.spinner}
-::: {.bounce1}
-:::
+** Text answer fail
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+<div class="check-line">
 
-::: {#task-test-correction-918-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+<div class="check-inline requirement fail offline">
 
-#### Correction of \"4. Once an idea has taken hold of the brain it\'s almost impossible to eradicate\" {#correction-of-4.-once-an-idea-has-taken-hold-of-the-brain-its-almost-impossible-to-eradicate .modal-title}
-:::
+** Skipped - Previous check failed
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-916-users-done-modal" class="modal fade users-done-modal" data-task-id="916" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-916-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
 
 Start a new test
 
 Close
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+<div class="spinner" style="display: none;">
 
-::: {.bounce2}
-:::
+<div class="bounce1">
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
+<div class="bounce2">
 
-::: {.info}
-:::
-:::
+</div>
 
-::: {.result}
-:::
+<div class="bounce3">
 
-::: {.help}
+</div>
 
-::: {.help-container task-id="918"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+</div>
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+<div class="error">
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+</div>
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="info">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+</div>
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+<div class="result">
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="help">
 
-::: {#task-919-users-done-modal .modal .fade .users-done-modal task-id="919" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+**
 
-#### Students who are done with \"5. Your subconscious is looking for the dreamer\" {#students-who-are-done-with-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
-:::
+<div class="help-container" data-task-id="916">
 
-::: {.modal-body}
-::: {.list-group}
-:::
+<div class="check-line">
 
-::: {.spinner}
-::: {.bounce1}
-:::
+<div class="check-inline requirement success">
 
-::: {.bounce2}
-:::
+** Requirement success
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+<div class="check-inline requirement fail">
 
-::: {#task-test-correction-919-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+** Requirement fail
 
-#### Correction of \"5. Your subconscious is looking for the dreamer\" {#correction-of-5.-your-subconscious-is-looking-for-the-dreamer .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
 
-Start a new test
+<div class="check-line">
 
-Close
+<div class="check-inline code success">
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+** Code success
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+<div class="check-inline code fail">
 
-::: {.error}
-:::
+** Code fail
 
-::: {.info}
-:::
-:::
+</div>
 
-::: {.result}
-:::
+</div>
 
-::: {.help}
+<div class="check-line">
 
-::: {.help-container task-id="919"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+<div class="check-inline efficiency success">
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+** Efficiency success
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+</div>
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="check-inline efficiency fail">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+** Efficiency fail
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+</div>
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+<div class="check-line">
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="check-inline answer success">
 
-::: {#task-920-users-done-modal .modal .fade .users-done-modal task-id="920" project-id="219"}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+** Text answer success
 
-#### Students who are done with \"6. Inception. Is it possible?\" {#students-who-are-done-with-6.-inception.-is-it-possible .modal-title}
-:::
+</div>
 
-::: {.modal-body}
-::: {.list-group}
-:::
+<div class="check-inline answer fail">
 
-::: {.spinner}
-::: {.bounce1}
-:::
+** Text answer fail
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
-:::
-:::
-:::
-:::
+<div class="check-line">
 
-::: {#task-test-correction-920-correction-modal .modal .fade .task_correction_modal .student_modal .checker_in_beta}
-::: {.modal-dialog}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+<div class="check-inline requirement fail offline">
 
-#### Correction of \"6. Inception. Is it possible?\" {#correction-of-6.-inception.-is-it-possible .modal-title}
-:::
+** Skipped - Previous check failed
 
-::: {.modal-body}
-::: {.actions}
-::: {.alert .alert-info .hidden}
-:::
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-917-users-done-modal" class="modal fade users-done-modal" data-task-id="917" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "3. You mustn't be afraid to dream a little bigger, darling"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-917-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "3. You mustn't be afraid to dream a little bigger, darling"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
 
 Start a new test
 
 Close
 
-::: {.spinner style="display: none;"}
-::: {.bounce1}
-:::
+<div class="spinner" style="display: none;">
 
-::: {.bounce2}
-:::
+<div class="bounce1">
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {.error}
-:::
+<div class="bounce2">
 
-::: {.info}
-:::
-:::
+</div>
 
-::: {.result}
-:::
+<div class="bounce3">
 
-::: {.help}
+</div>
 
-::: {.help-container task-id="920"}
-::: {.check-line}
-::: {.check-inline .requirement .success}
-Requirement success
-:::
+</div>
 
-::: {.check-inline .requirement .fail}
-Requirement fail
-:::
-:::
+<div class="error">
 
-::: {.check-line}
-::: {.check-inline .code .success}
-Code success
-:::
+</div>
 
-::: {.check-inline .code .fail}
-Code fail
-:::
-:::
+<div class="info">
 
-::: {.check-line}
-::: {.check-inline .efficiency .success}
-Efficiency success
-:::
+</div>
 
-::: {.check-inline .efficiency .fail}
-Efficiency fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .answer .success}
-Text answer success
-:::
+<div class="result">
 
-::: {.check-inline .answer .fail}
-Text answer fail
-:::
-:::
+</div>
 
-::: {.check-line}
-::: {.check-inline .requirement .fail .offline}
-Skipped - Previous check failed
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+<div class="help">
 
-::: {#container-specs-modal .modal .fade}
-::: {.modal-dialog .modal-lg}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+**
 
-#### Recommended Sandbox {#recommended-sandbox .modal-title}
-:::
+<div class="help-container" data-task-id="917">
 
-::: {.modal-body}
-::: {react-class="user_containers/ContainerSpecs" react-props="{\"containerModelName\":\"Sandbox\",\"containerSpecs\":[{\"description\":\"\\u003cp\\u003eBasic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Foundations\\u003c/p\\u003e\\n\",\"id\":39,\"name\":\"Ubuntu 20.04\",\"online\":true}],\"containersLimit\":1,\"csrfToken\":\"LLsANraTY9Vg27vv1XD/6ZFlOgsPqTdSKIH3aU8l2w8VX7PYO23NIsPMNLEPtP/mrKvmr4/b2IbEuPcvBGApDQ==\",\"startURI\":\"/user_containers/start.json\"}" react-cache-id="user_containers/ContainerSpecs-0"}
+<div class="check-line">
+
+<div class="check-inline requirement success">
+
+** Requirement success
+
+</div>
+
+<div class="check-inline requirement fail">
+
+** Requirement fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline code success">
+
+** Code success
+
+</div>
+
+<div class="check-inline code fail">
+
+** Code fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline efficiency success">
+
+** Efficiency success
+
+</div>
+
+<div class="check-inline efficiency fail">
+
+** Efficiency fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline answer success">
+
+** Text answer success
+
+</div>
+
+<div class="check-inline answer fail">
+
+** Text answer fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline requirement fail offline">
+
+** Skipped - Previous check failed
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-918-users-done-modal" class="modal fade users-done-modal" data-task-id="918" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "4. Once an idea has taken hold of the brain it's almost impossible to eradicate"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-918-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "4. Once an idea has taken hold of the brain it's almost impossible to eradicate"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
+
+Start a new test
+
+Close
+
+<div class="spinner" style="display: none;">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+<div class="info">
+
+</div>
+
+</div>
+
+<div class="result">
+
+</div>
+
+<div class="help">
+
+**
+
+<div class="help-container" data-task-id="918">
+
+<div class="check-line">
+
+<div class="check-inline requirement success">
+
+** Requirement success
+
+</div>
+
+<div class="check-inline requirement fail">
+
+** Requirement fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline code success">
+
+** Code success
+
+</div>
+
+<div class="check-inline code fail">
+
+** Code fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline efficiency success">
+
+** Efficiency success
+
+</div>
+
+<div class="check-inline efficiency fail">
+
+** Efficiency fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline answer success">
+
+** Text answer success
+
+</div>
+
+<div class="check-inline answer fail">
+
+** Text answer fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline requirement fail offline">
+
+** Skipped - Previous check failed
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-919-users-done-modal" class="modal fade users-done-modal" data-task-id="919" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "5. Your subconscious is looking for the dreamer"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-919-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "5. Your subconscious is looking for the dreamer"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
+
+Start a new test
+
+Close
+
+<div class="spinner" style="display: none;">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+<div class="info">
+
+</div>
+
+</div>
+
+<div class="result">
+
+</div>
+
+<div class="help">
+
+**
+
+<div class="help-container" data-task-id="919">
+
+<div class="check-line">
+
+<div class="check-inline requirement success">
+
+** Requirement success
+
+</div>
+
+<div class="check-inline requirement fail">
+
+** Requirement fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline code success">
+
+** Code success
+
+</div>
+
+<div class="check-inline code fail">
+
+** Code fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline efficiency success">
+
+** Efficiency success
+
+</div>
+
+<div class="check-inline efficiency fail">
+
+** Efficiency fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline answer success">
+
+** Text answer success
+
+</div>
+
+<div class="check-inline answer fail">
+
+** Text answer fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline requirement fail offline">
+
+** Skipped - Previous check failed
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-920-users-done-modal" class="modal fade users-done-modal" data-task-id="920" data-project-id="219">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Students who are done with "6. Inception. Is it possible?"
+
+</div>
+
+<div class="modal-body">
+
+<div class="list-group">
+
+</div>
+
+<div class="spinner">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="task-test-correction-920-correction-modal" class="modal fade task_correction_modal student_modal checker_in_beta">
+
+<div class="modal-dialog">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Correction of "6. Inception. Is it possible?"
+
+</div>
+
+<div class="modal-body">
+
+<div class="actions">
+
+<div class="alert alert-info hidden">
+
+</div>
+
+Start a new test
+
+Close
+
+<div class="spinner" style="display: none;">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div class="error">
+
+</div>
+
+<div class="info">
+
+</div>
+
+</div>
+
+<div class="result">
+
+</div>
+
+<div class="help">
+
+**
+
+<div class="help-container" data-task-id="920">
+
+<div class="check-line">
+
+<div class="check-inline requirement success">
+
+** Requirement success
+
+</div>
+
+<div class="check-inline requirement fail">
+
+** Requirement fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline code success">
+
+** Code success
+
+</div>
+
+<div class="check-inline code fail">
+
+** Code fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline efficiency success">
+
+** Efficiency success
+
+</div>
+
+<div class="check-inline efficiency fail">
+
+** Efficiency fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline answer success">
+
+** Text answer success
+
+</div>
+
+<div class="check-inline answer fail">
+
+** Text answer fail
+
+</div>
+
+</div>
+
+<div class="check-line">
+
+<div class="check-inline requirement fail offline">
+
+** Skipped - Previous check failed
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="container-specs-modal" class="modal fade">
+
+<div class="modal-dialog modal-lg">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Recommended Sandbox
+
+</div>
+
+<div class="modal-body">
+
+<div data-react-class="user_containers/ContainerSpecs" data-react-props="{&quot;containerModelName&quot;:&quot;Sandbox&quot;,&quot;containerSpecs&quot;:[{&quot;description&quot;:&quot;\u003cp\u003eBasic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Foundations\u003c/p\u003e\n&quot;,&quot;id&quot;:39,&quot;name&quot;:&quot;Ubuntu 20.04&quot;,&quot;online&quot;:true}],&quot;containersLimit&quot;:1,&quot;csrfToken&quot;:&quot;LLsANraTY9Vg27vv1XD/6ZFlOgsPqTdSKIH3aU8l2w8VX7PYO23NIsPMNLEPtP/mrKvmr4/b2IbEuPcvBGApDQ==&quot;,&quot;startURI&quot;:&quot;/user_containers/start.json&quot;}" data-react-cache-id="user_containers/ContainerSpecs-0">
+
 <div>
 
-::: {.d-flex .gap-4 .sandboxes-filters}
-[Running only]{.btn .btn-outline-primary}
+<div class="d-flex gap-4 sandboxes-filters">
 
-::: {.align-items-center .d-flex style="position: relative; width: 100%;"}
-:::
-:::
+<span class="btn btn-outline-primary">**<span>Running only</span></span>
 
-::: {.mt-3}
-### 1 image[(0/1 Sandbox spawned)]{.small}
-:::
+<div class="align-items-center d-flex" style="position: relative; width: 100%;">
 
-::: {.mt-3}
-::: {.panel .panel-default}
-::: {.panel-body}
-::: {.align-items-center .d-flex .flex-wrap .justify-content-between}
+</div>
+
+</div>
+
+<div class="mt-3">
+
+### 1 image<span class="small">(0/1 Sandbox spawned)</span>
+
+</div>
+
+<div class="mt-3">
+
+<div class="panel panel-default">
+
+<div class="panel-body">
+
+<div class="align-items-center d-flex flex-wrap justify-content-between">
+
 <div>
 
-### [Ubuntu 20.04]{.ml-2} {#ubuntu-20.04 .mt-0}
+### **<span class="ml-2">Ubuntu 20.04</span>
 
-::: {.mt-2 .text-muted}
+<div class="mt-2 text-muted">
+
 Basic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for
 Foundations
-:::
 
 </div>
 
-::: {.d-flex .flex-wrap .gap-5}
-[Run]{.btn .btn-success}
-:::
-:::
-:::
-:::
-:::
+</div>
+
+<div class="d-flex flex-wrap gap-5">
+
+<span class="btn btn-success">**<span>Run</span></span>
 
 </div>
-:::
-:::
-:::
-:::
-:::
 
-::: {#search-modal .modal .fade tabindex="-1" role="dialog" aria-labelledby="search-modal-label"}
-::: {.modal-dialog .modal-md}
-::: {.modal-content}
-::: {.modal-header}
-::: {#search-bar-container}
-:::
-:::
+</div>
 
-::: {.modal-body}
-::: {#modal-spinner .spinner .gap}
-::: {.bounce1}
-:::
+</div>
 
-::: {.bounce2}
-:::
+</div>
 
-::: {.bounce3}
-:::
-:::
+</div>
 
-::: {#search-results-container}
-:::
-:::
-:::
-:::
-:::
+</div>
 
-::: {#markdownGuideModal .modal .fade tabindex="-1" role="dialog" aria-labelledby="markdownGuideModalLabel" aria-hidden="true"}
-::: {.modal-dialog .modal-md}
-::: {.modal-content}
-::: {.modal-header}
-[×]{aria-hidden="true"}
+</div>
 
-#### Markdown Guide {#markdown-guide .modal-title}
-:::
+</div>
 
-::: {.modal-body}
+</div>
+
+</div>
+
+</div>
+
+<div id="search-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="search-modal-label">
+
+<div class="modal-dialog modal-md">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<div id="search-bar-container">
+
+</div>
+
+</div>
+
+<div class="modal-body">
+
+<div id="modal-spinner" class="spinner gap">
+
+<div class="bounce1">
+
+</div>
+
+<div class="bounce2">
+
+</div>
+
+<div class="bounce3">
+
+</div>
+
+</div>
+
+<div id="search-results-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="markdownGuideModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="markdownGuideModalLabel" aria-hidden="true">
+
+<div class="modal-dialog modal-md">
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<span aria-hidden="true">×</span>
+
+#### Markdown Guide
+
+</div>
+
+<div class="modal-body">
+
 #### Emphasis
 
     **bold**
@@ -2068,7 +2873,7 @@ Foundations
     * Generic list item
     * Generic list item
     * Generic list item
-
+    
     1. Numbered list item
     2. Numbered list item
     3. Numbered list item
@@ -2096,9 +2901,9 @@ CSS style available: `width, height, opacity`
     | -------- | -------- | -------- |
     | John     | Doe      | Male     |
     | Mary     | Smith    | Female   |
-
+    
     Or without aligning the columns...
-
+    
     | Column 1 | Column 2 | Column 3 |
     | -------- | -------- | -------- |
     | John | Doe | Male |
@@ -2107,14 +2912,18 @@ CSS style available: `width, height, opacity`
 #### Displaying code
 
     `var example = "hello!";`
-
+    
     Or spanning multiple lines...
-
+    
     ```
     var example = "hello!";
     alert(example);
     ```
-:::
-:::
-:::
-:::
+
+</div>
+
+</div>
+
+</div>
+
+</div>
