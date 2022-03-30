@@ -10,9 +10,9 @@
 
 </div>
 
-  - ** By Julien Barbier
-  - ** Weight: 1
-  - ** Ongoing project - started
+  - By Julien Barbier
+  - Weight: 1
+  - Ongoing project - started
     <div class="d-inline-block" data-react-class="common/DateTime" data-react-props="{&quot;showDate&quot;:true,&quot;showTime&quot;:false,&quot;value&quot;:&quot;2022-03-30T06:00:00.000+03:00&quot;}" data-react-cache-id="common/DateTime-0">
     <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-30 06:00 (GMT+03:00)"><span class="datetime">Mar
     30, 2022 </span></span>
@@ -22,14 +22,12 @@
     <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-31 06:00 (GMT+03:00)"><span class="datetime">Mar
     31, 2022 </span></span>
     </div>
-    \- you're done with
-    <span id="student_task_done_percentage">0</span>% of tasks.
-  - ** Checker was released at
+  - Checker was released at
     <div class="d-inline-block" data-react-class="common/DateTime" data-react-props="{&quot;showDate&quot;:true,&quot;showTime&quot;:true,&quot;value&quot;:&quot;2022-03-30T06:00:00.000+03:00&quot;}" data-react-cache-id="common/DateTime-0">
     <span data-container="body" data-html="false" data-placement="auto top" data-toggle="tooltip" title="" data-original-title="2022-03-30 06:00 (GMT+03:00)"><span class="datetime">Mar
     30, 2022 6:00 AM</span></span>
     </div>
-  - ** An auto review will be launched at the deadline
+  - An auto review will be launched at the deadline
 
 <div id="project_id" style="display: none" data-project-id="219">
 
@@ -37,7 +35,7 @@
 
 <div id="project-description" class="well clean">
 
-![](./Project_%200x08.%20C%20-%20Recursion%20_%20Addis%20Ababa%20Intranet_files/a88.jpg)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/219/a88.jpg)
 
 ## Resources
 
