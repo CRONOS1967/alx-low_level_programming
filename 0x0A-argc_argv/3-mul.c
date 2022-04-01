@@ -21,7 +21,7 @@ _putchar(mult);
 else
 {
 _putchar('Error');
-return(1);
+return (1);
 }
 return (0);
 }
