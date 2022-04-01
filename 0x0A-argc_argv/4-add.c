@@ -16,17 +16,12 @@ for (i = 1; i < argc; i++)
 {
 if (!(atoi(argv[i])))
 {
-_putchar('Error');
+printf('Error\n');
 return (1);
 }
 sum += atoi(argv[i]);
 }
-_putchar(sum);
-}
-else
-{
-_putchar('Error');
-return (1);
+printf("%d\n", sum);
 }
 return (0);
 }

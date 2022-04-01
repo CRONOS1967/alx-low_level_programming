@@ -6,8 +6,8 @@
  * @argv: the arguments passed when excuted
  * Return: 0 on succusfull compltion
 */
-int main(int argc, char *argv[])
+int main(int argc, __attribute__((__unused__)) char *argv[])
 {
-_putchar(argc);
+printf("%d\n", argc);
 return (0);
 }

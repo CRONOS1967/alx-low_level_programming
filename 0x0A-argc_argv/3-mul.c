@@ -16,11 +16,11 @@ for (i = 1; i < argc; i++)
 {
 mult *= atoi(argv[i]);
 }
-_putchar(mult);
+printf("%d\n", mult);
 }
 else
 {
-_putchar('Error');
+printf("Error\n");
 return (1);
 }
 return (0);
