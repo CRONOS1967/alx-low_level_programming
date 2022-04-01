@@ -8,20 +8,18 @@
 */
 int main(int argc, char *argv[])
 {
-int i, mult;
+	int i, j, mul;
 
-if (argc > 1)
-{
-for (i = 1; i < argc; i++)
-{
-mult *= atoi(argv[i]);
-}
-printf("%d\n", mult);
-}
-else
-{
-printf("Error\n");
-return (1);
-}
-return (0);
+	if (argc <= 2)
+	{
+		printf("Error\n");
+		return (1);
+	}
+
+	i = atoi(argv[1]);
+	j = atoi(argv[2]);
+	mul = i * j;
+
+	printf("%d\n", mul);
+	return (0);
 }
