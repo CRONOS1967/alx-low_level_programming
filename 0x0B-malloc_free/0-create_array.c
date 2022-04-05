@@ -8,20 +8,17 @@
  */
 char *create_array(unsigned int size, char c)
 {
-unsigned int i = 0;
-char *ch;
+	char *p;
+	unsigned int i;
 
-if (size == 0)
-{
-return (NULL);
-}
-else
-{
-ch = malloc(sizeof(c) * size);
-while (i < size)
-{
-ch[i] = c;
-}
-return (ch);
-}
+	if (size == 0)
+	return (0);
+	p = malloc((size) * sizeof(char));
+	if (p == '\0')
+	return (0);
+	for (i = 0; i < size; i++)
+	{
+		p[i] = c;
+	}
+return (p);
 }
