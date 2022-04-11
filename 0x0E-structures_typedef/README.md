@@ -3,15 +3,8 @@
 
 *   By Julien Barbier
 *   Weight: 1
-*   Ongoing project - started
-    
-    Apr 11, 2022
-    
-    , must end by
-    
-    Apr 12, 2022
-    
-    \- you're done with 0% of tasks.
+*   Ongoing project - started Apr 11, 2022 , must end by Apr 12, 2022 \- you're done with 0% of tasks.
+
 *   Checker was released at
     
     Apr 11, 2022 12:00 PM
