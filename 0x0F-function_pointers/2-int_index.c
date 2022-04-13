@@ -11,9 +11,9 @@
  */
 int int_index(int *array, int size, int (*cmp)(int))
 {
-if (array && size && cmp)
+if (array && cmp)
 {
-unsigned int i = 0;
+int i = 0;
 for (; i < size; i++)
 {
 if (cmp(array[i]) != 0)

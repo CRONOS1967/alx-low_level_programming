@@ -1,5 +1,5 @@
-#ifndef FUNCTION_POINTERS
-#define FUNCTION_POINTERS
+#ifndef FILE_F_POINTRS
+#define FILE_F_POINTRS
 
 #include <stdlib.h>
 
