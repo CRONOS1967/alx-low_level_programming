@@ -16,10 +16,13 @@ op_t ops[] = {
 {NULL, NULL}
 };
 int i = 0;
+
 while (ops[i].op)
 {
 if (strcmp(s, ops[i].op) == 0)
+{
 return (ops[i].f);
+}
 i++;
 }
 printf("Erorr\n");
