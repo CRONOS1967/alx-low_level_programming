@@ -20,6 +20,8 @@ so far its written in C.
 * [0x08. C - Recursion](./0x08-recursion)
 * [0x09. C - Static libraries](./0x09-static_libraries)
 * [0x10. C - Variadic functions](./0x10-variadic_functions)
+* [0x12. C - singly_linked_lists](.0x12-singly_linked_lists)
+* [0x13. C - more_singly_linked_lists](.0x12-singly_linked_lists)
 * [0x0A. C - argc, argv](./0x0A-argc_argv)
 * [0x0B. C - malloc, free](./0x0B-malloc_free)
 * [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
